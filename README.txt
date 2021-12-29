@@ -1,1 +1,1 @@
-This is the code for a recipe website.
+A webpage created using only HTML.
